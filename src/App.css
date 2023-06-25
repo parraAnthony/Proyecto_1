@@ -6,7 +6,7 @@ body {
 
 }
 .container__components{
-    width: 25rem;
+    width: 20rem;
     height: 90vh;
     display: flex;
     flex-direction: column;
