@@ -1,4 +1,3 @@
-
 const Background=()=>{ 
     const i=parseInt(Math.random()*(1+4-1)+1)
 
