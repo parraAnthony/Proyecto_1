@@ -1,6 +1,6 @@
-import Component from '../components/Component'
-import Background from '../components/Background'
-import phrases from '../data/phrases.json'
+import Component from './components/Component'
+import Background from './components/Background'
+import phrases from './data/phrases.jsongit '
 import './App.css'
 import { useState } from 'react'
 function App() {
